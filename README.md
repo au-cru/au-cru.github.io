@@ -1,2 +1,2 @@
-# au-oc.github.io
-Placeholder for redirecting to main AUOC [site](https://au-oc.github.io).
+# au-cru.github.io
+Placeholder for redirecting to main AU CRU [site](https://au-cru.github.io).
